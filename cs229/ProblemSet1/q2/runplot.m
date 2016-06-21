@@ -1,0 +1,1 @@
+function runplot[X_train, y_train] = load_data;resolution = 200tau = 100.0plot_lwlr(X_train, y_train, tau, resolution)
